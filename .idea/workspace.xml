@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44dbc690-8728-4ff2-9602-8b20c9db20ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Pdo27g5djbjxO6u1ruw4LN2T7Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\react\movie\src\views\welcome" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44dbc690-8728-4ff2-9602-8b20c9db20ba" name="Default Changelist" comment="" />
+      <created>1566213124335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566213124335</updated>
+      <workItem from="1566213128582" duration="44000" />
+      <workItem from="1566471610952" duration="2831000" />
+      <workItem from="1566816994813" duration="3557000" />
+      <workItem from="1566989755324" duration="3188000" />
+      <workItem from="1567076114955" duration="3333000" />
+      <workItem from="1567594281856" duration="3406000" />
+      <workItem from="1567608288985" duration="1217000" />
+      <workItem from="1567611106147" duration="16000" />
+      <workItem from="1567613483246" duration="30000" />
+      <workItem from="1567650734854" duration="454000" />
+      <workItem from="1567680782049" duration="2695000" />
+      <workItem from="1567768180548" duration="589000" />
+      <workItem from="1567835040958" duration="590000" />
+      <workItem from="1567845399266" duration="27000" />
+      <workItem from="1568026462161" duration="50000" />
+      <workItem from="1568026588222" duration="24000" />
+      <workItem from="1568026766850" duration="84000" />
+      <workItem from="1568026916227" duration="74000" />
+      <workItem from="1568028583769" duration="996000" />
+      <workItem from="1568082360599" duration="452000" />
+      <workItem from="1568163613728" duration="482000" />
+      <workItem from="1568164558323" duration="720000" />
+      <workItem from="1568199774315" duration="2477000" />
+      <workItem from="1568426988139" duration="662000" />
+      <workItem from="1568631315068" duration="3475000" />
+      <workItem from="1572790727196" duration="292000" />
+      <workItem from="1572791980963" duration="1784000" />
+      <workItem from="1572794349142" duration="684000" />
+      <workItem from="1573038359219" duration="47000" />
+      <workItem from="1573743056494" duration="332000" />
+      <workItem from="1573745598615" duration="598000" />
+      <workItem from="1573747434264" duration="597000" />
+      <workItem from="1573781796108" duration="595000" />
+      <workItem from="1573805653871" duration="554000" />
+      <workItem from="1573826958886" duration="290000" />
+      <workItem from="1574691060806" duration="1262000" />
+      <workItem from="1574695024250" duration="610000" />
+      <workItem from="1574733632627" duration="599000" />
+      <workItem from="1579421889561" duration="276000" />
+      <workItem from="1579965155012" duration="1325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Navitems.js</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

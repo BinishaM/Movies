@@ -1,0 +1,36 @@
+nav{
+	display:flex;
+	align-items: center;
+	height:8vh;
+	justify-content: space-between;
+	padding:0 5vw;
+	box-sizing: border-box;	
+	position: fixed;
+	width:100%;
+	background:rgba(0,0,0,0.86);
+	color:white;
+}
+.search-bar{
+	padding:5px 15px;
+	border-radius:50px;
+	border:1px solid coral;
+	display: flex;
+	align-items: center;
+}
+.search-bar input{
+	flex:1;
+	background:transparent;
+	border:none;
+	color:white;
+}
+.search-bar input:focus{
+	outline:none;
+}
+.search-bar input::placeholder{
+	color:white;
+}
+.nav-items{
+	display: flex;
+	justify-content: space-between;
+	width:30%;
+}
